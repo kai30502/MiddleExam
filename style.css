@@ -117,11 +117,15 @@ section h2
 {
     text-align: center;
 }
-/* footer
+footer
 {
-    background-color: black;
-    height: 10px;
-} */
+    background-color: #D5BDAF;;
+    height: 60px;
+    position: absolute;
+    width: 100%;
+    top: 2650px;
+}
+
 meter {
     width: 200px;
 }
